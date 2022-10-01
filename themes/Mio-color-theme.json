@@ -117,6 +117,13 @@
 			}
 		},
 		{
+			"scope": "constant.numeric.decimal",
+			"settings": {
+				"foreground": "#198ae6",
+				"fontStyle": "bold"
+			}
+		},
+		{
 			"scope": "keyword.operator.arithmetic",
 			"settings": {
 				"foreground": "#72BFFF",
@@ -147,7 +154,21 @@
 		{
 			"scope": "string.quoted.double",
 			"settings": {
-				"foreground": "#efd471",
+				"foreground": "#ecc398",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "support.constant.property-value.blendfactors.shaderlab",
+			"settings": {
+				"foreground": "#198ae6",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "support.function.git-rebase.shaderlab",
+			"settings": {
+				"foreground": "#F28282",
 				"fontStyle": "bold"
 			}
 		},
@@ -161,7 +182,7 @@
 		{
 			"scope": "keyword.control.shaderlab",
 			"settings": {
-				"foreground": "#F28282",
+				"foreground": "#7DC580",
 				"fontStyle": "bold"
 			}
 		},
@@ -203,7 +224,7 @@
 		{
 			"scope": "constant.numeric.shaderlab",
 			"settings": {
-				"foreground": "#72BFFF",
+				"foreground": "#198ae6",
 				"fontStyle": "bold"
 			}
 		},

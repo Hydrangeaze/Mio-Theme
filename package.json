@@ -3,7 +3,7 @@
   "displayName": "Mio",
   "description": "Theme for c#, hlsl, shaderlab",
   "publisher": "hydrangeaze",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.71.0"
   },
