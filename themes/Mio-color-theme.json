@@ -96,23 +96,44 @@
 			}
 		},
 		{
+			"scope": "entity.name.variable.enum-member",
+			"settings": {
+				"foreground": "#7DC580",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "entity.name.variable.field",
+			"settings": {
+				"foreground": "#7DC580",
+				"fontStyle": "bold"
+			}
+		},
+		{
 			"scope": "punctuation.terminator.statement",
 			"settings": {
-				"foreground": "#72BFFF",
+				"foreground": "#F28282",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "punctuation.accessor",
+			"settings": {
+				"foreground": "#F28282",
 				"fontStyle": "bold"
 			}
 		},
 		{
 			"scope": "keyword.operator.assignment",
 			"settings": {
-				"foreground": "#72BFFF",
+				"foreground": "#F28282",
 				"fontStyle": "bold"
 			}
 		},
 		{
 			"scope": "punctuation.separator.comma",
 			"settings": {
-				"foreground": "#72BFFF",
+				"foreground": "#F28282",
 				"fontStyle": "bold"
 			}
 		},
@@ -133,14 +154,14 @@
 		{
 			"scope": "punctuation.definition.string.end",
 			"settings": {
-				"foreground": "#72BFFF",
+				"foreground": "#F28282",
 				"fontStyle": "bold"
 			}
 		},
 		{
 			"scope": "punctuation.definition.string.begin",
 			"settings": {
-				"foreground": "#72BFFF",
+				"foreground": "#F28282",
 				"fontStyle": "bold"
 			}
 		},
