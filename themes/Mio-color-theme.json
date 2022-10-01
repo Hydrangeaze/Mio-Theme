@@ -168,7 +168,7 @@
 		{
 			"scope": "support.function.git-rebase.shaderlab",
 			"settings": {
-				"foreground": "#F28282",
+				"foreground": "#7DC580",
 				"fontStyle": "bold"
 			}
 		},
@@ -182,10 +182,11 @@
 		{
 			"scope": "keyword.control.shaderlab",
 			"settings": {
-				"foreground": "#7DC580",
+				"foreground": "#F28282",
 				"fontStyle": "bold"
 			}
 		},
+
 		{
 			"scope": "support.class.structures.shaderlab",
 			"settings": {
