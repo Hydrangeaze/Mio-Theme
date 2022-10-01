@@ -1,0 +1,23 @@
+{
+  "name": "Mio",
+  "displayName": "Mio",
+  "description": "Theme for c#, hlsl, shaderlab",
+  "publisher": "hydrangeaze",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mio",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Mio-color-theme.json"
+      }
+    ]
+  }
+}
