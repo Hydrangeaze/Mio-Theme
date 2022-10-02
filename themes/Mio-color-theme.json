@@ -28,7 +28,6 @@
 		"statusBar.foreground":"#F6EBDF",
 	},
 	"tokenColors": [
-
 		{
 			"name": "Comment",
 			"scope": [
@@ -178,7 +177,7 @@
 				"foreground": "#ecc398",
 				"fontStyle": "bold"
 			}
-		},
+		},	
 		{
 			"scope": "support.constant.property-value.blendfactors.shaderlab",
 			"settings": {
