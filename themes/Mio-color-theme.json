@@ -35,7 +35,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "italic bold",
 				"foreground": "#a58873"
 			}
 		},
@@ -115,6 +115,7 @@
 				"fontStyle": "bold"
 			}
 		},
+
 		{
 			"scope": "punctuation.accessor",
 			"settings": {
@@ -374,7 +375,7 @@
 		{
 			"scope": "entity.name.variable.local",
 			"settings": {
-				"foreground": "#7DC580",
+				"foreground": "#F6EBDF",
 				"fontStyle": "bold"
 			}
 		},
@@ -934,6 +935,35 @@
 			"settings": {
 				"foreground": "#EEFFFF"
 			}
-		}
+		},
+		{
+			"scope": "comment.line.double-slash",
+			"settings": {
+				"foreground": "#A58873",
+				"fontStyle": "italic bold"
+			}
+		},
+		{
+			"scope": "variable.other.object",
+			"settings": {
+				"foreground": "#7DC580",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "variable.other.object.property",
+			"settings": {
+				"foreground": "#F6EBDF",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "variable.other.readwrite",
+			"settings": {
+				"foreground": "#F6EBDF",
+				"fontStyle": "bold"
+			}
+		},
 	]
+	
 }
